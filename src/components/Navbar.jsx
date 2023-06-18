@@ -7,7 +7,7 @@ const Navbar = () => {
     const language = useLanguageContext();
    
     const cambiaLanguage = useLanguageToggleContext();
-    console.log(language)
+   
    
 
     return (
